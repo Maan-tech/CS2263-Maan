@@ -1,3 +1,7 @@
 touch hello.txt
 Maan CS2263 Completed with A+
+
 Maan A++++++
+
+Step 6
+
